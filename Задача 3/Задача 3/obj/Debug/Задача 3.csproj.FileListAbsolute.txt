@@ -1,0 +1,9 @@
+C:\Users\Ctrl\source\repos\Задача 3\Задача 3\bin\Debug\Задача 3.exe.config
+C:\Users\Ctrl\source\repos\Задача 3\Задача 3\bin\Debug\Задача 3.exe
+C:\Users\Ctrl\source\repos\Задача 3\Задача 3\bin\Debug\Задача 3.pdb
+C:\Users\Ctrl\source\repos\Задача 3\Задача 3\obj\Debug\Задача 3.csproj.AssemblyReference.cache
+C:\Users\Ctrl\source\repos\Задача 3\Задача 3\obj\Debug\Задача_3.Properties.Resources.resources
+C:\Users\Ctrl\source\repos\Задача 3\Задача 3\obj\Debug\Задача 3.csproj.GenerateResource.cache
+C:\Users\Ctrl\source\repos\Задача 3\Задача 3\obj\Debug\Задача 3.csproj.CoreCompileInputs.cache
+C:\Users\Ctrl\source\repos\Задача 3\Задача 3\obj\Debug\Задача 3.exe
+C:\Users\Ctrl\source\repos\Задача 3\Задача 3\obj\Debug\Задача 3.pdb

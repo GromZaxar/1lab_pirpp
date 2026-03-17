@@ -1,0 +1,9 @@
+C:\Users\Ctrl\source\repos\Задача 4\Задача 4\bin\Debug\Задача 4.exe.config
+C:\Users\Ctrl\source\repos\Задача 4\Задача 4\bin\Debug\Задача 4.exe
+C:\Users\Ctrl\source\repos\Задача 4\Задача 4\bin\Debug\Задача 4.pdb
+C:\Users\Ctrl\source\repos\Задача 4\Задача 4\obj\Debug\Задача 4.csproj.AssemblyReference.cache
+C:\Users\Ctrl\source\repos\Задача 4\Задача 4\obj\Debug\Задача_4.Properties.Resources.resources
+C:\Users\Ctrl\source\repos\Задача 4\Задача 4\obj\Debug\Задача 4.csproj.GenerateResource.cache
+C:\Users\Ctrl\source\repos\Задача 4\Задача 4\obj\Debug\Задача 4.csproj.CoreCompileInputs.cache
+C:\Users\Ctrl\source\repos\Задача 4\Задача 4\obj\Debug\Задача 4.exe
+C:\Users\Ctrl\source\repos\Задача 4\Задача 4\obj\Debug\Задача 4.pdb

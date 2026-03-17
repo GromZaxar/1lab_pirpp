@@ -1,0 +1,9 @@
+C:\Users\Ctrl\source\repos\лаба 1 номер 1\лаба 1 номер 1\bin\Debug\лаба 1 номер 1.exe.config
+C:\Users\Ctrl\source\repos\лаба 1 номер 1\лаба 1 номер 1\bin\Debug\лаба 1 номер 1.exe
+C:\Users\Ctrl\source\repos\лаба 1 номер 1\лаба 1 номер 1\bin\Debug\лаба 1 номер 1.pdb
+C:\Users\Ctrl\source\repos\лаба 1 номер 1\лаба 1 номер 1\obj\Debug\лаба 1 номер 1.csproj.AssemblyReference.cache
+C:\Users\Ctrl\source\repos\лаба 1 номер 1\лаба 1 номер 1\obj\Debug\лаба_1_номер_1.Properties.Resources.resources
+C:\Users\Ctrl\source\repos\лаба 1 номер 1\лаба 1 номер 1\obj\Debug\лаба 1 номер 1.csproj.GenerateResource.cache
+C:\Users\Ctrl\source\repos\лаба 1 номер 1\лаба 1 номер 1\obj\Debug\лаба 1 номер 1.csproj.CoreCompileInputs.cache
+C:\Users\Ctrl\source\repos\лаба 1 номер 1\лаба 1 номер 1\obj\Debug\лаба 1 номер 1.exe
+C:\Users\Ctrl\source\repos\лаба 1 номер 1\лаба 1 номер 1\obj\Debug\лаба 1 номер 1.pdb
