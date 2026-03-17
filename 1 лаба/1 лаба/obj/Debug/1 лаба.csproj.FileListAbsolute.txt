@@ -1,9 +1,0 @@
-C:\Users\Ctrl\source\repos\1 лаба\1 лаба\obj\Debug\1 лаба.csproj.AssemblyReference.cache
-C:\Users\Ctrl\source\repos\1 лаба\1 лаба\obj\Debug\_1_лаба.Properties.Resources.resources
-C:\Users\Ctrl\source\repos\1 лаба\1 лаба\obj\Debug\1 лаба.csproj.GenerateResource.cache
-C:\Users\Ctrl\source\repos\1 лаба\1 лаба\obj\Debug\1 лаба.csproj.CoreCompileInputs.cache
-C:\Users\Ctrl\source\repos\1 лаба\1 лаба\bin\Debug\1 лаба.exe.config
-C:\Users\Ctrl\source\repos\1 лаба\1 лаба\bin\Debug\1 лаба.exe
-C:\Users\Ctrl\source\repos\1 лаба\1 лаба\bin\Debug\1 лаба.pdb
-C:\Users\Ctrl\source\repos\1 лаба\1 лаба\obj\Debug\1 лаба.exe
-C:\Users\Ctrl\source\repos\1 лаба\1 лаба\obj\Debug\1 лаба.pdb
